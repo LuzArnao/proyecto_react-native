@@ -1,0 +1,1 @@
+export const backgroundPrincipal = require('../assets/img/background.jpeg')
