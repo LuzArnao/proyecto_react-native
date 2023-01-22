@@ -1,6 +1,7 @@
 ## Tabla de Cotenido
 * [Informacion General](#informacion-general)
 * [Librerias](#librerias)
+* [Autenticacion y DB](#Autenticacion-y-Realtime-Database)
 * [Setup](#setup)
 
 ## Informacion General
@@ -24,7 +25,7 @@ Este proyecto fue generado como parte del curso de React Native de CoderHouse.
 * redux: ^4.2.0,
 * redux-thunk: ^2.4.2
 
-## Autenticacion y Realtime Database: 
+## Autenticacion y Realtime Database 
 
 * Firebase
 
